@@ -1,6 +1,4 @@
-Certainly! Here’s the updated README with specific mentions of the Moorebot Scout robot:
 
----
 
 # JPEG Stream Server for Moorebot Scout
 
